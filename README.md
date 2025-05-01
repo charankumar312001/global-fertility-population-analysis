@@ -24,6 +24,8 @@ This project presents a comprehensive Tableau-based analysis of global fertility
 - Pallavi Ravindra
 - Rakesh Valluri
 
+  ## 📌 Video Explanation
+  https://cmich.webex.com/recordingservice/sites/cmich/recording/e8a35ab69829103dbb7bc6faf25448ea/playback
 ---
 
 > 🔗 Feel free to explore the `.twbx` file using Tableau Desktop or Tableau Public.
